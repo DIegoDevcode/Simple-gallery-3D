@@ -9,6 +9,8 @@ body{
     padding: 0;
     font-family: Arial, sans-serif;
     font-size: 62.5%;
+    background: linear-gradient(to right, #ffdd00, #fbb034, #ffdd00, #c1d82f);
+
 }
 
 .Bienvenida{
